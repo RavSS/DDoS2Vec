@@ -1,0 +1,7 @@
+numpy
+gensim
+scikit-learn
+joblib
+iterative-stratification
+xgboost
+matplotlib
