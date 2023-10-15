@@ -1,5 +1,7 @@
 # DDoS2Vec Artefacts
 
+[![DOI](https://zenodo.org/badge/698526784.svg)](https://zenodo.org/doi/10.5281/zenodo.10004864)
+
 This repository contains the code necessary to repeat the experiments in the paper _DDoS2Vec: Flow-Level Characterisation of Volumetric DDoS Attacks at Scale_ that appeared in CoNEXT 2023.
 
 ## Pre-requisites
